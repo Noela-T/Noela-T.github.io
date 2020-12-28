@@ -7,22 +7,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
+My name is Noela Tenku and I am an aspiring Data Scientist. Currently, I'm taking the Cloud-Based Data Science course on Learnpub. By the end of 2021, my goal is to be proficient enough to work on data analysis problems in R and data visualization in Tableau.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I have worked as an IT consultant for a Non-profit organization where I deployed and customized different open source solutions for a community project. There, I got to experience the importance of proper data management from collection till making decisions based on the results of the data analyst. This gave more reasons to want to pursue the career of a data analyst.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Interests
+-Data visualization
+-IT support
+-Community building
+-Project Management
 
-```{r cars}
-summary(cars)
-```
+## Projects
+-Building my personal website
 
-## Including Plots
+## Profiles
+-[LinkedIn](http://www.linkedin.com/in/noela-tenku)
+-[Github](https://github.com/Noela-T)
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Contact
+[tenkunoela@gmail.com](mailto:tenkunoela@gmail.com)
